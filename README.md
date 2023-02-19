@@ -38,7 +38,7 @@ I am Pawan Kanjeam, a third year Computer Engineering Student from Chulalongkorn
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwanstax&theme=dark&layout=compact&hide=java)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwanstax&theme=dark&layout=compact&hide=java,verilog)
 
 
 <!--
